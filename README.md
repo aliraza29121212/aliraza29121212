@@ -38,5 +38,4 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://app.daily.dev/aliraza52"><img src="https://api.daily.dev/devcards/v2/lyQEM9H79EoITWGt7aUiF.png?type=default&r=5vj" width="356" alt="Ali Raza's Dev Card"/></a>
-</p>
+<a href="https://app.daily.dev/aliraza52"><img src="https://api.daily.dev/devcards/v2/lyQEM9H79EoITWGt7aUiF.png?type=wide&r=5vj" width="652" alt="Ali Raza's Dev Card"/></a></p>
