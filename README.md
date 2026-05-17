@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **aliraza29121212/aliraza29121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hello! I'm Ali Raza</h1>
+<h1>Hello! I'm Ali Raza</h1>
 
 * 🔭 I’m currently working on Full-Stack Development, Shopify, and Automations
 * 🌱 I’m currently learning Advanced AI integrations and Data-Driven Design
