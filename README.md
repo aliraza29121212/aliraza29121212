@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://api.daily.dev/get-started?r=aliraza29121212">
+    <img src="https://api.daily.dev/devcards/v2/aliraza29121212.png?r=1fc" alt="Ali Raza's daily.dev DevCard" />
+  </a>
+</p>
