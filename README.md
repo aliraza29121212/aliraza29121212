@@ -14,6 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hello! I'm Ali Raza</h1>
+
+* 🔭 I’m currently working on Full-Stack Development, Shopify, and Automations
+* 🌱 I’m currently learning Advanced AI integrations and Data-Driven Design
+* 💬 Ask me about anything web dev or tech-related
+* 📬 How to reach me: aliraza29121212@github.com
+* ⚡ Hobbies include: Learning new tech, problem solving, and exploring innovations
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://api.daily.dev/get-started?r=aliraza52">
+    <img src="https://api.daily.dev/devcards/v2/aliraza52.png?r=1fc" alt="Ali Raza's daily.dev DevCard" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://api.daily.dev/get-started?r=aliraza52">
     <img src="https://api.daily.dev/devcards/v2/aliraza52.png?r=1fc" alt="Ali Raza's daily.dev DevCard" />
