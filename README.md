@@ -37,13 +37,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://api.daily.dev/get-started?r=aliraza52">
-    <img src="https://api.daily.dev/devcards/v2/aliraza52.png?r=1fc" alt="Ali Raza's daily.dev DevCard" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://api.daily.dev/get-started?r=aliraza52">
-    <img src="https://api.daily.dev/devcards/v2/aliraza52.png?r=1fc" alt="Ali Raza's daily.dev DevCard" />
+  <a href="https://daily.dev/aliraza52">
+    <img src="https://api.daily.dev/devcards/v2/aliraza52.png" alt="Ali Raza's daily.dev DevCard" />
   </a>
 </p>
